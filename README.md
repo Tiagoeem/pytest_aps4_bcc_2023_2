@@ -24,6 +24,7 @@ Neste exercício, você implementará algumas funções matemáticas simples e e
         test_funcoes.py
     funcoes.py
     pytest.ini
+```
 
 
 ## Instruções:
@@ -41,6 +42,8 @@ Para testar seu código, você usará o `pytest` juntamente com os marcadores de
 
    ```bash
    pytest -v -m simples
+```
 
    ```bash
    pytest -v -m lista
+```
